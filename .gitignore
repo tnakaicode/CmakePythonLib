@@ -1,0 +1,12 @@
+.vscode/*
+.*/*
+.vscode/settings.json
+
+# Cmake
+build/*
+
+# Byte-compiled / optimized / DLL files
+
+__pycache__/
+*.py[cod]
+*.pyc[cod]
